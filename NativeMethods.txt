@@ -1,0 +1,9 @@
+﻿GetModuleHandle
+SetWindowsHookEx
+CallNextHookEx
+GetKeyState
+GetMessage
+TranslateMessage
+DispatchMessage
+KBDLLHOOKSTRUCT
+KeyBoadMessage
